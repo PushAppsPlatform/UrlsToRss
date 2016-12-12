@@ -8,8 +8,8 @@ This project was created from the need to create custom RSS feeds from some URLs
 `go get github.com/pushapps/urlstorss`
 
 ## Usage
-    // Your articles to be put in the RSS feed
-    articles := []string{"http://noticieros.televisa.com/economia/2016-12-10/operativo-rampa-revisara-salud-pilotos-aeropuertos-pais/",
+   // Your articles to be put in the RSS feed
+   articles := []string{"http://noticieros.televisa.com/economia/2016-12-10/operativo-rampa-revisara-salud-pilotos-aeropuertos-pais/",
 		"http://noticieros.televisa.com/economia/2016-12-09/malasia-petronas-operara-aguas-profundas-mexico/",
 		"http://noticieros.televisa.com/economia/2016-12-08/mezcla-mexicana-avanza-49-centavos-barril-cierra-43-81/",
 		"http://noticieros.televisa.com/economia/2016-12-09/dolar-cierra-semana-ligera-alza/",
