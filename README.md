@@ -50,3 +50,7 @@ This project was created from the need to create custom RSS feeds from some URLs
 	fmt.Println(rss)
 	fmt.Println("\n\n\n\n")
 	fmt.Println(atom)
+
+## Thanks
+
+1. https://github.com/gorilla/feeds
