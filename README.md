@@ -51,6 +51,14 @@ This project was created from the need to create custom RSS feeds from some URLs
 	fmt.Println("\n\n\n\n")
 	fmt.Println(atom)
 
+## What's Next?
+
+1. Wrap everything with an HTTP server
+2. Download the RSS as a file directly
+3. Add more support for RSS and ATOM custom formats
+
 ## Thanks
 
-1. https://github.com/gorilla/feeds
+1. [gorilla/feeds](https://github.com/gorilla/feeds) - Used the basic classes and formats from this library
+
+2. [dyatlov/go-opengraph](https://github.com/dyatlov/go-opengraph/) - Used for parsing the meta data from the articles
